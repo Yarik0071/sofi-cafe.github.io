@@ -1,0 +1,11 @@
+.App {
+    /* background: no-repeat url(./img/bgcMob.png); */
+    /* width: 600px;
+    height: 1200px; */
+}
+
+.logo {
+    /* width: 300px;
+    height: 200px; */
+    display: flex;
+}

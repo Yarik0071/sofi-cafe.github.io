@@ -1,0 +1,17 @@
+{
+  "title": "Croissants",
+  "data": [
+    {
+      "name": "Croissants with salmon",
+      "price": "7.00"
+    },
+    {
+      "name": "Croissants with chicken",
+      "price": "5.00"
+    },
+    {
+      "name": "Croissants with ham and cheese",
+      "price": "5.00"
+    }
+  ]
+}
